@@ -1,0 +1,17 @@
+{
+  "productName": "PythonClient",
+  "version": "0.0.00.1",
+  "dataOrigin": "cache",
+  "pseudo": false,
+  "machineTranslation": false,
+  "component": "intest",
+  "messages": {
+    "intest.applicationname": "Sample ja Application",
+    "intest.home": "Home ja",
+    "intest.about": "About1 ja",
+    "intest.contact": "Contact1 ja"
+  },
+  "locale": "ja",
+  "status": "",
+  "id": 0
+}

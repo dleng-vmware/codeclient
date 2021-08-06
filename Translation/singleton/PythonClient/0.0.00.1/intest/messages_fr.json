@@ -1,0 +1,18 @@
+{
+  "productName": "PythonClient",
+  "version": "0.0.00.1",
+  "dataOrigin": "cache",
+  "pseudo": false,
+  "machineTranslation": false,
+  "component": "intest",
+  "messages": {
+    "intest.applicationname": "Sample fr Application",
+    "intest.home": "Home fr",
+    "intest.about": "About1 fr",
+    "intest.contact": "Contact1 fr",
+    "intest.online": "Contact1 fr online"
+  },
+  "locale": "fr",
+  "status": "",
+  "id": 0
+}

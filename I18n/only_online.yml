@@ -1,0 +1,19 @@
+online_service_url: http://localhost:8091/singleton/PythonClient/1.0.0/
+
+# log path for the python client
+log_path: ./log/
+
+# local storage path for caching
+cache_path: ./singleton/
+
+# how many seconds should be waited to try again for accessing the remote service,
+# when there is no data cached
+try_delay: 10
+
+default_locale: de
+source_locale: en-US
+locales:
+  - language_tag: de
+
+# how many seconds should be waited to update cache data when there is old data existed
+cache_expired_time: 60

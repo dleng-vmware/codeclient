@@ -1,0 +1,10 @@
+2021-08-05 21:30:05,939 
+2021-08-05 21:30:05,939 --- start --- python --- 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+2021-08-05 21:30:05,939 --- release --- PythonClient --- 4.0.1 --- 1628170205.9393306 ---
+2021-08-05 21:30:05,939 --- cache path --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\4.0.1 ---
+2021-08-05 21:30:07,669 --- component --- about ---
+2021-08-05 21:30:07,669 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\4.0.1\about\messages_en.json ---
+2021-08-05 21:30:08,546 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\4.0.1\about\messages_en.json ---
+2021-08-05 21:30:08,551 --- component --- about ---
+2021-08-05 21:30:08,551 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\4.0.1\about\messages_ja.json ---
+2021-08-05 21:30:09,428 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\4.0.1\about\messages_ja.json ---

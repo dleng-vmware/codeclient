@@ -1,0 +1,30 @@
+product: PythonClient
+l10n_version: 3
+
+offline_resources_base_url: http://127.0.0.1:8094/l10ntest/PythonClient/3
+
+# log path for the python client
+log_path: ./log/
+
+default_locale: de
+source_locale: en-US
+
+locales:
+  - language_tag: en
+  - language_tag: ko
+  - language_tag: de
+  - language_tag: fr
+  - language_tag: ja
+  - language_tag: ar
+  - language_tag: ar
+  - language_tag: zh-Hans
+
+components:
+  - name: about
+  - name: contact
+  - name: common
+
+component_template:
+  locales_refer: locales
+  offline_resources_path:
+    - $COMPONENT/messages_$LOCALE.json

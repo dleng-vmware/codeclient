@@ -1,0 +1,56 @@
+2021-08-05 21:29:38,320 
+2021-08-05 21:29:38,320 --- start --- python --- 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+2021-08-05 21:29:38,320 --- release --- PythonClient --- 0.0.00.1 --- 1628170178.320097 ---
+2021-08-05 21:29:38,320 --- cache path --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1 ---
+2021-08-05 21:29:38,360 --- component --- intest ---
+2021-08-05 21:29:38,360 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_en.json ---
+2021-08-05 21:29:38,371 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_en.json ---
+2021-08-05 21:29:38,375 --- component --- intest ---
+2021-08-05 21:29:38,375 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_ja.json ---
+2021-08-05 21:29:38,386 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_ja.json ---
+2021-08-05 21:29:51,719 
+2021-08-05 21:29:51,719 --- start --- python --- 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+2021-08-05 21:29:51,719 --- release --- PythonClient --- 0.0.00.1 --- 1628170191.719849 ---
+2021-08-05 21:29:51,719 --- cache path --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1 ---
+2021-08-05 21:29:51,724 --- component --- intest ---
+2021-08-05 21:29:51,725 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_en.json ---
+2021-08-05 21:29:51,726 --- component --- intest ---
+2021-08-05 21:29:51,726 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_fr.json ---
+2021-08-05 21:29:51,753 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_fr.json ---
+2021-08-05 21:29:51,755 --- component --- intest ---
+2021-08-05 21:29:51,755 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\intest\messages_ja.json ---
+2021-08-05 21:29:51,769 --- component --- about ---
+2021-08-05 21:29:51,769 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_en.json ---
+2021-08-05 21:29:51,789 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_en.json ---
+2021-08-05 21:29:51,790 --- component --- about ---
+2021-08-05 21:29:51,790 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_ja.json ---
+2021-08-05 21:29:51,805 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_ja.json ---
+2021-08-05 21:29:51,942 --- component --- index ---
+2021-08-05 21:29:51,942 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\index\messages_en.json ---
+2021-08-05 21:29:51,955 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\index\messages_en.json ---
+2021-08-05 21:29:51,956 --- component --- index ---
+2021-08-05 21:29:51,956 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\index\messages_fr.json ---
+2021-08-05 21:29:51,970 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\index\messages_fr.json ---
+2021-08-05 21:29:51,973 --- component --- contact ---
+2021-08-05 21:29:51,973 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_en.json ---
+2021-08-05 21:29:51,985 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_en.json ---
+2021-08-05 21:29:51,987 --- component --- contact ---
+2021-08-05 21:29:51,987 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_ko.json ---
+2021-08-05 21:29:51,999 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_ko.json ---
+2021-08-05 21:29:52,005 --- component --- contact ---
+2021-08-05 21:29:52,005 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_ja.json ---
+2021-08-05 21:29:52,019 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_ja.json ---
+2021-08-05 21:29:52,027 --- component --- about ---
+2021-08-05 21:29:52,027 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_fr.json ---
+2021-08-05 21:29:52,042 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_fr.json ---
+2021-08-05 21:29:52,099 --- component --- contact ---
+2021-08-05 21:29:52,099 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_fr.json ---
+2021-08-05 21:29:52,112 --- save --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\contact\messages_fr.json ---
+2021-08-05 21:29:55,423 
+2021-08-05 21:29:55,423 --- start --- python --- 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+2021-08-05 21:29:55,423 --- release --- PythonClient --- 0.0.00.1 --- 1628170195.4234195 ---
+2021-08-05 21:29:55,423 --- cache path --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1 ---
+2021-08-05 21:29:55,428 --- component --- about ---
+2021-08-05 21:29:55,428 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_en.json ---
+2021-08-05 21:29:55,428 --- component --- about ---
+2021-08-05 21:29:55,429 --- cache file --- E:\python_client\test_pythoncode\Translation\singleton\PythonClient\0.0.00.1\about\messages_fr.json ---

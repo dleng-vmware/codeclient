@@ -1,0 +1,28 @@
+2021-08-05 21:58:18,630 
+2021-08-05 21:58:18,630 --- start --- python --- 3.7.6 (tags/v3.7.6:43364a7ae0, Dec 19 2019, 00:42:30) [MSC v.1916 64 bit (AMD64)]
+2021-08-05 21:58:18,630 --- release --- PythonClient --- 6.0.0 --- 1628171898.6301365 ---
+2021-08-05 21:58:18,630 --- cache path --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0 ---
+2021-08-05 21:58:18,881 --- component --- about ---
+2021-08-05 21:58:18,881 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_en.json ---
+2021-08-05 21:58:18,903 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_en.json ---
+2021-08-05 21:58:18,904 --- component --- about ---
+2021-08-05 21:58:18,904 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_de.json ---
+2021-08-05 21:58:18,925 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_de.json ---
+2021-08-05 21:58:57,036 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_de.json ---
+2021-08-05 21:59:07,104 --- component --- about ---
+2021-08-05 21:59:07,104 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_fr.json ---
+2021-08-05 21:59:07,122 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_fr.json ---
+2021-08-05 21:59:32,254 --- component --- about ---
+2021-08-05 21:59:32,254 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_ja.json ---
+2021-08-05 21:59:32,272 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_ja.json ---
+2021-08-05 22:01:07,387 --- component --- about ---
+2021-08-05 22:01:07,388 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_pl.json ---
+2021-08-05 22:01:07,401 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_pl.json ---
+2021-08-05 22:01:47,544 --- component --- addcomponent ---
+2021-08-05 22:01:47,544 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\addcomponent\messages_en.json ---
+2021-08-05 22:01:47,557 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\addcomponent\messages_en.json ---
+2021-08-05 22:01:47,559 --- component --- addcomponent ---
+2021-08-05 22:01:47,559 --- cache file --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\addcomponent\messages_fr.json ---
+2021-08-05 22:01:47,571 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\addcomponent\messages_fr.json ---
+2021-08-05 22:02:28,741 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_en.json ---
+2021-08-05 22:02:31,740 --- save --- E:\python_client\test_pythoncode\Cachetest\singleton\PythonClient\6.0.0\about\messages_de.json ---

@@ -1,0 +1,15 @@
+{
+  "productName": "PythonClient",
+  "version": "1.0.0",
+  "dataOrigin": "bundle",
+  "pseudo": false,
+  "machineTranslation": false,
+  "component": "about",
+  "messages": {
+    "about.description": "この領域を使用して追加情報を提供する",
+    "about.message": "test ja key"
+  },
+  "locale": "ja",
+  "status": "",
+  "id": 0
+}

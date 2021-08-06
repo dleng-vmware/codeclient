@@ -1,0 +1,28 @@
+product: dtestproduct
+l10n_version: 1.3
+#offline_resources_base_url: file://d:/l10ntest/dtestproduct/1.3
+offline_resources_base_url: http://127.0.0.1:8094/l10ntest/dtestproduct/1.3
+default_locale: de-DE
+source_locale: en
+# log path for the python client
+log_path: ./log/
+
+locales:
+  - language_tag: en
+  - language_tag: ko
+  - language_tag: de
+  - language_tag: fr
+  - language_tag: ja
+  - language_tag: ar
+  - language_tag: zh-Hans
+
+components:
+  - name: testcomponent1
+  - name: test_component2
+  - name: test.component3
+  - name: test-component4
+
+component_template:
+  locales_refer: locales
+  offline_resources_path:
+    - $COMPONENT/messages_$LOCALE.json

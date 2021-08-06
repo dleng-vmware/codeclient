@@ -1,0 +1,17 @@
+{
+  "productName": "PythonClient",
+  "version": "6.0.0",
+  "dataOrigin": "cache",
+  "pseudo": false,
+  "machineTranslation": false,
+  "component": "about",
+  "messages": {
+    "about.description": "Nutzen Sie diesen Bereich, um zusätzliche Informationen zu liefern",
+    "about.message": "test__de_value",
+    "about.test": "test de the {1} to {0} and {2}",
+    "about.addkey": "add de6 value"
+  },
+  "locale": "de",
+  "status": "",
+  "id": 0
+}

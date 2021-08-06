@@ -1,0 +1,21 @@
+{
+  "productName": "PythonClient",
+  "version": "0.0.00.1",
+  "dataOrigin": "cache",
+  "pseudo": false,
+  "machineTranslation": false,
+  "component": "contact",
+  "messages": {
+    "about.message": "test fr key contact online with localsource",
+    "contact.marketing": "Marketing:",
+    "contact.applicationname": "Singleton-Sample-Web-Anwendung",
+    "contact.address": "One Microsoft Way <br/> Redmond, WA 98052-6399 <br/> < abbr titel = \"Phone\" > P: </abbr> 425.555.0100",
+    "contact.support": "Unterstützung:",
+    "contact.message": "Ihrer Kontaktseite.",
+    "contact.title": "Kontakt",
+    "contact.test": "change de {0}"
+  },
+  "locale": "fr",
+  "status": "",
+  "id": 0
+}
